@@ -1,0 +1,40 @@
+_repo: Salome-Dramo-En-Unu-Akto_63064
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Bulthuis, H. J. (Hindrik Jan)
+    alias: Bulthuis, Hindrik Jan
+    birthdate: 1865
+    deathdate: 1945
+    gutenberg_agent_id: '25585'
+    url: http://www.gutenberg.org/2009/agents/25585
+    wikipedia:
+    - http://eo.wikipedia.org/wiki/Hendrik_Bulthuis
+    - https://nl.wikipedia.org/wiki/H.J._Bulthuis
+creator:
+  author:
+    agent_name: Wilde, Oscar
+    alias: Wilde, Oscar Fingal O'Flahertie Wills
+    birthdate: 1854
+    deathdate: 1900
+    gutenberg_agent_id: '111'
+    url: http://www.gutenberg.org/2009/agents/111
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Oscar_Wilde
+    - http://fr.wikipedia.org/wiki/Oscar_Wilde
+description: ''
+gutenberg_issued: '2020-08-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63064'
+language: eo
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Salome (Biblical figure) -- Drama'
+- !lcc 'PR'
+- !lcsh 'Tragedies'
+- GITenberg
+title: 'Salome: Dramo En Unu Akto'
+url: http://www.gutenberg.org/ebooks/63064
